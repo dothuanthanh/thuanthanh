@@ -1,0 +1,222 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Monda:wght@400;700&display=swap');
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font-family: 'Monda', sans-serif;
+	font-weight: 400;
+}
+#outer{
+	width: 100%;
+}
+.container{
+	width: 960px;
+	margin:0 auto;
+}
+.header{
+	width: 100%;
+	height:150px;
+}
+.clearfix{
+	clear:both;
+}
+.logo{
+	width:10%;
+	height:80px;
+	float:left
+}
+img{
+	width:100px;
+}
+.banner{
+	width:90%;
+	height:100px;
+	float:right;
+}
+.banner p{
+	font-size: 30px;
+	text-decoration: none;
+	color:#000000;
+	text-align: center;
+	line-height: 0px;
+	margin-top: 25px;
+	font-family: 'Monda', sans-serif;
+	font-weight:700;
+}
+.menu{
+	width:100%;
+	height: 50px;
+	background: blue;
+}
+.menu ul{
+	list-style: none;
+}
+.menu ul li{
+	float: left ;
+	margin: 0 40px;
+	line-height: 50px;
+}
+.menu ul li a{
+	color: aliceblue;
+	text-decoration: none;
+	font-weight: 800;
+}
+.menu ul li a:hover{
+	color: red;
+}
+.menu ul li img{
+	width: 50px;
+}
+.main{
+	width: 100%;
+	margin-top: 80px;
+}
+.main img{
+	width:50%;
+	float:left
+}
+.main container{
+	width:800px;
+	margin:0 auto;
+}
+.clearfix{
+	clear: both;
+}
+.main p img{
+	width: 200px;
+	margin-top: 70px
+}
+h1 {
+	font-size:35px;
+	font-weight:700px;
+	text-align: center;
+	color:blue
+}
+h2 p {
+	font-size:20px;
+	font-weight:700px;
+	margin-left: 220px;
+}
+h2 {
+	font-size:15px;
+	font-weight:200px;
+}
+h2 a:hover {
+	color:red;
+}
+.main span img{
+	width: 200px;
+}
+h3 p {
+	font-size:20px;
+	font-weight:700px;
+	margin-left: 220px;
+}
+h3 {
+	font-size:15px;
+	font-weight:200px;
+}
+h3 a:hover {
+	color:red;
+}
+h4 p {
+	font-size:20px;
+	font-weight:700px;
+	margin-left: 220px;
+}
+h4 {
+	font-size:15px;
+	font-weight:200px;
+}
+h4 a:hover {
+	color:red;
+}
+h5 p {
+	font-size:20px;
+	font-weight:700px;
+	margin-left: 220px;
+}
+h5 {
+	font-size:15px;
+	font-weight:200px;
+}
+h5 a:hover {
+	color:red;
+}
+h6{
+	font-size:30px;
+	text-align: center;
+	color: red;
+}
+h7 {
+	font-size:15px;
+	font-weight:400px;
+}
+h7 span{
+	font-size: 20px;
+	color:blue;
+}
+h8 {
+	font-size:25px;
+	color:blue;
+}
+h8 h9 {
+	font-size:20px;
+	color:black;
+}
+h8 h9 p{
+	width:500px;
+	height:30px;
+	background:#FFFFFF;
+	border: 2px solid black 
+}
+h8 h10 {
+	font-size:20px;
+	color:black;
+}
+h8 h10 p{
+	width:500px;
+	height:30px;
+	background:#FFFFFF;
+	border: 2px solid black 
+}
+h8 h11 {
+	font-size:20px;
+	color:black;
+}
+h8 h11 p{
+	width:500px;
+	height:30px;
+	background:#FFFFFF;
+	border: 2px solid black;
+}
+.footer{
+	width: 100%;
+	height:300px;
+	background: #1B1616;
+}
+.container{
+	width: 960px;
+	margin:0 auto;
+}
+h12 span {
+	fant-size:20px;
+	color:red;
+}
+h12 {
+	font-size:15px;
+	color:aliceblue;
+	float:left;
+	margin-top: 10px
+}
+.footer p {
+	width:500px;
+}
+.ab p {
+	width:400px;
+	background:#D3494B;
+	float:right;
+}
